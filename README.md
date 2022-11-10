@@ -2,7 +2,7 @@
 
 # Notification package for Laravel 8
 
-[![Build Status](https://travis-ci.org/edvinaskrucas/notification.png?branch=master)](https://travis-ci.org/sharelov/notification)
+[![Build Status](https://travis-ci.org/sharelov/notification.png?branch=master)](https://travis-ci.org/sharelov/notification)
 
 ---
 
