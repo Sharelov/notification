@@ -1,6 +1,6 @@
 **Package is looking for maintainers Please contact me if interested.**
 
-# Notification package for Laravel 7
+# Notification package for Laravel 8
 
 [![Build Status](https://travis-ci.org/edvinaskrucas/notification.png?branch=master)](https://travis-ci.org/sharelov/notification)
 
