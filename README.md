@@ -32,6 +32,7 @@ Then hit `composer update`
 
 | Laravel Version | Package version |
 | --------------- | --------------- |
+| = 7.x           | 6.\*            |
 | = 5.4           | 5.2.\*          |
 | >= 5.1          | 5.1.\*          |
 | >= 5.0, < 5.1   | 5.0.\*          |
