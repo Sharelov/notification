@@ -12,6 +12,8 @@ jobs:
       # Specify the version you desire here
       - image: cimg/php:7.3.31-browsers
 
+    working_directory: ~/repo
+
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
