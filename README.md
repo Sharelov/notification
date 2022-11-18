@@ -2,8 +2,7 @@
 
 # Notification package for Laravel 7
 
-[![Build Status](https://travis-ci.org/edvinaskrucas/notification.png?branch=master)](https://travis-ci.org/sharelov/notification)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Sharelov/notification/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Sharelov/notification/tree/master)
 ---
 
 A simple notification management package for Laravel4.
