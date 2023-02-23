@@ -1,6 +1,6 @@
 **Package is looking for maintainers Please contact me if interested.**
 
-# Notification package for Laravel 7
+# Notification package for Laravel 8
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Sharelov/notification/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Sharelov/notification/tree/master)
 ---
@@ -31,6 +31,7 @@ Then hit `composer update`
 
 | Laravel Version | Package version |
 | --------------- | --------------- |
+| = 8.x           | 7.\*            |
 | = 7.x           | 6.\*            |
 | = 5.4           | 5.2.\*          |
 | >= 5.1          | 5.1.\*          |
